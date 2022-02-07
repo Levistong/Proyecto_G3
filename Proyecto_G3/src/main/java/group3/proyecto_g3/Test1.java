@@ -18,22 +18,20 @@ package group3.proyecto_g3;
  *
  */
 public class Test1 {
-    
+
     /**
      * En esta clase se usarán las variables para poder identificar al cliente
      * en el inicio de sesión. También para asegurar la dirección donde se hará
      * el pedido, tomando en cuenta el número de celular y el nombre del
      * cliente.
      */
-    
     private String test;
-    
+
     /**
      * Este sería el constructor vacío de esta clase.
      */
-    
     public Test1() {
-        
+
     }
 
 }
