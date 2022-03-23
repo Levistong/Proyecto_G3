@@ -26,6 +26,7 @@ public class Test1 {
      * cliente.
      */
     private String test;
+    private String nom;
 
     /**
      * Este sería el constructor vacío de esta clase.
