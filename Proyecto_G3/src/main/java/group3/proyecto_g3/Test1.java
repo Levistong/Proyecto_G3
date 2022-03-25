@@ -7,15 +7,16 @@
  *
  * Copyright (c) 
  */
+
 package group3.proyecto_g3;
 
 /**
  * Esta es la clase Test1, acá podemos encontrar la información sobre el usuario
  * y datos de inicio de Sesión en la app.
  *
- * @author Christopher Hernandez
- * @version 1.0 07 de Febrero 2022
- *
+ * @author Christopher Hernandez, Levistong Obando
+ * @version 1.0 25 de Marzo 2022
+ *h
  */
 public class Test1 {
 
@@ -26,7 +27,6 @@ public class Test1 {
      * cliente.
      */
     private String test;
-    private String nom;
 
     /**
      * Este sería el constructor vacío de esta clase.
